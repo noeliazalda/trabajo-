@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV de Nombre y Apellido</title>
+</head>
+
+<body>
+    <h1>Noelia Zaldarriaga
+
+    </h1>
+    <p>Sobre todas las cosas elijo ver</p>
+    <img src="frase.jpg" alt="frase inspiradora">
+    <audio src="Mar .aac" controls></audio>
+
+</body>
+<video src="naturaleza.mp4" poster="imagen/milu.jpg" controls></video>
+
+<form action="method"></form>
+<p>
+<h4>FORMULARIO<h4>
+        </p>
+
+        <label for="nom">Completar con los datos personales</label>
+        <input type="text" name="Noelia" placeholder="apellido">
+
+        <input type="text" name="Zaldarriaga" placeholder="nombre">
+
+        <p>
+
+        <ul>
+
+            <label for="gusto">Selecione que color le gusta mas</label>
+            <p>
+
+    
+            <li>
+                <input type="radio" name="gusto" value="">azul<label for=""></label>
+            </li>
+            <li><input type="radio" name="gusto" value="">amarillo<label for=""></label>
+                <p>
+
+            <label for="vacaciones">Selecione que prefiere para vacacionar</label>
+            <p>
+
+            
+                <li>
+                <input type="radio" name="vacaciones" value="">playa<label for=""></label>
+            </li>
+            <li><input type="radio" name="sexo" value="">rio<label for=""></label>
+                <p>
+
+
+                    <label for="pass">Contraseña</label>
+                </p>
+
+                <input type="password" name="pass">
+                <input type="submit" value="Enviar">
+                <input type="reset" value="Borrar">
+                <p>
+            </li>
+        </ul>
+
+        </p>
+        <h4> para escuhar una linda cancion haga click</h4> <a
+            href="https://open.spotify.com/album/69YLD3zIxQt55bHjVlhLTP">aqui</a>
+        </p>
+        </body>
+
+</html>
